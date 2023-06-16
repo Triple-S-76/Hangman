@@ -7,7 +7,7 @@ class Hangman
                 :remaining_letters,
                 :winner,
                 :number_of_letters_guessed,
-                :remaining_guesses
+                :remaining_guesses,
                 :game_loaded
 
   def initialize
